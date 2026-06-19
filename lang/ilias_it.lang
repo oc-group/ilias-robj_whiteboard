@@ -1,0 +1,48 @@
+obj_xswb#:#Lavagna collaborativa
+objs_xswb#:#Lavagne collaborative
+obj_xswb_duplicate#:#Copia lavagna collaborativa
+objs_xswb_duplicate#:#Copia lavagne collaborative
+obj_xswb_select#:#Seleziona lavagna collaborativa
+xswb_add#:#Aggiungi lavagna collaborativa
+xswb_new#:#Aggiungi nuova lavagna collaborativa
+xswb_read#:#Accesso in lettura alla lavagna collaborativa
+xswb_write#:#Modifica lavagna collaborativa
+xswb_delete#:#Elimina lavagna collaborativa
+xswb_visible#:#La lavagna collaborativa è visibile
+xswb_edit_permission#:#Modifica le impostazioni dei permessi
+crs_create_xswb#:#Crea lavagna collaborativa
+grp_create_xswb#:#Crea lavagna collaborativa
+fold_create_xswb#:#Crea lavagna collaborativa
+root_create_xswb#:#Crea lavagna collaborativa
+cat_create_xswb#:#Crea lavagna collaborativa
+title#:#Titolo
+description#:#Descrizione
+default_permissions#:#Permessi predefiniti
+all_write#:#Tutti gli utenti possono modificare e visualizzare la lavagna collaborativa
+all_read#:#Solo amministratori e tutor possono modificare la lavagna collaborativa; tutti gli altri utenti hanno accesso in sola lettura
+online#:#Online
+save#:#Salva
+update#:#Aggiorna
+properties#:#Proprietà
+content#:#Contenuto
+copy#:#Copia
+edit#:#Modifica
+export#:#Esporta
+offline:#:Offline
+important#:#Importante
+online_status#:#Stato online
+lp_status#:#Progresso di apprendimento
+update_successful#:#Aggiornamento completato con successo
+news_title#:#Titolo (en)
+news_content#:#Contenuto (en)
+xswb_copy#:#Copia oggetto del repository di test
+offline#:#Offline
+status#:#Stato
+settings#:#Impostazioni della lavagna collaborativa
+websocket_url#:#URL WebSocket
+info_websocket_url#:#L'URL WebSocket viene utilizzato per connettersi al server WebSocket. Questo è necessario per la lavagna collaborativa. Inserire solo dominio e porta, ad esempio: ilias8.com:5123
+info_config_saved#:#La configurazione è stata salvata.
+room_full#:#La stanza della lavagna collaborativa è piena.
+open_other_tab#:#Hai già aperto questa stanza in un'altra finestra.
+websocket_error#:#Impossibile raggiungere il server WebSocket. Contatta l'amministratore di sistema.
+import_confirm_message#:#L'importazione di un nuovo file sostituirà il contenuto attuale della lavagna collaborativa. Vuoi procedere?
