@@ -211,6 +211,11 @@ class ilObjWhiteboardGUI extends ilObjectPluginGUI
 
         $board->setVariable("IMPORTCONFIRMMESSAGE", $this->plugin->txt("import_confirm_message"));
 
+        // Disable the lock toggle button if the user does not have edit permissions.
+        if (!$DIC->access()->checkAccess("edit_permission", "", $this->object->getRefId())) {
+            $tpl->addInlineCss(".tlui-button.tlui-button__menu[data-testid='menu-item.toggle-lock'] { display: none; }");
+        }
+
         $tpl->setContent($board->get());
     }
 
